@@ -13,7 +13,7 @@ apt install git -y
 
 apt install python -y
 
-git clone https://github.com/root-plinix/CrackPit
+git clone https://github.com/ZihadAhmed/CrackPit
 
 cd CrackPit
 
