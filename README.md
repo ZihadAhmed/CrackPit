@@ -1,6 +1,9 @@
 # CrackPit
 A new level cracker !
 
+Best Tool for New User.
+
+
 
 # Comand
 termux-setup-storage
@@ -20,3 +23,11 @@ cd CrackPit
 pip install requests
 
 python crack.py
+
+
+# requirement
+
+Python 
+Python2 
+
+
