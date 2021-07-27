@@ -32,10 +32,10 @@ Python2
 
 # contract Us 
 
-#Facebook id=
+#Facebook id =https://www.facebook.com/sojib.Ahmed124
 
-#Facebook page=
+#Facebook page =https://www.facebook.com/Zihad1Ahmed/
 
-#Massanger=
+#Massanger =https://m.me/sojib.Ahmed124
 
 
